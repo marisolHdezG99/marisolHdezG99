@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @marisolHdezG99
 - 👀 I’m interested in:
+      - Scrum 
+      - Agile Methodologies
       - Data Science
-      - Product Management
       - Architecture DevOps
 - 🌱 I’m currently learning:
       - Python3
